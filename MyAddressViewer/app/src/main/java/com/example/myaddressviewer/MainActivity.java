@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
         fetch.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                address.setText("FETCHING...");
+                address.setText(R.string.fetching_text);
                 loc();
             }
         });
