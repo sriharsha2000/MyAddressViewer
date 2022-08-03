@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MyAddressViewer</string>
+    <string name="fetching_text">FETCHING...</string>
 </resources>
